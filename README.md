@@ -45,14 +45,6 @@ Extras
 •	Receiving of forgotten credentials
 •	Installing the latest windows when needed
 
-April 2014–April 2016
-
-Administrator• Admin and filing • Coparex Pty Ltd
-
-•	Capturing of tenders to send on SMS
-•	Receiving and sending of emails
-•	Ensuring filing on order
-•	Searching of tenders
 
 ###### My Achievements ######
 
