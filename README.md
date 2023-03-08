@@ -1,14 +1,14 @@
 
-*Hi !*
+#  Hello!  #
 
-**I am Natasha, call me Natz.**
+**I am Natasha.**
 
 ***Pleased to meet you!***
 
 I am a highly driven individual that can never get enough from learning new things daily. I see myself personally as a realist and a chatty person. I love a good conversation. I easily make friends with people i come in contact with, i sometimes admire myself for being so adventurous, i love the adrenaline that runs in me to learn new things. I have accomplished a National Diploma in Information Technology.  I desire to find a position that will enable me to further myself professionally and prove to be a valuable asset in any endeavor. 
 
 
-Experience
+###### Here are my experiences ######
 
 01 July 2019–Current
 
@@ -54,15 +54,20 @@ Administrator• Admin and filing • Coparex Pty Ltd
 •	Ensuring filing on order
 •	Searching of tenders
 
-Education
+###### My Achievements ######
 
 I hold a Diploma in IT, Certification in A+ and N+ and Currently Business Analysis NQF Level 5 that will be completed November 2023.
 With my thirst for striving at greater heights, i do take on short courses during my spare time online such as :
-Linkedin - Learning Data Analytics: 1 Foundations
-Linkedin - IT Service Desk: Customer Service Fundamentals
+
+*Linkedin - Learning Data Analytics: 1 Foundations*
+
+*Linkedin - IT Service Desk: Customer Service Fundamentals*
 
 
+                                    
 
+                                                     Feel free to Catch me on the below links:
+                                                
 
-You can contact me @ Natashan290@gmail.com or 0715604296 or https://www.linkedin.com/in/natasha-narainasamy0110
+              [Gmail](Natashan290@gmail.com)          [Call](0715604296)       [Linkedin](https://www.linkedin.com/in/natasha-narainasamy0110)
 
