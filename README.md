@@ -59,12 +59,10 @@ Administrator• Admin and filing • Coparex Pty Ltd
 I hold a Diploma in IT, Certification in A+ and N+ and Currently Business Analysis NQF Level 5 that will be completed November 2023.
 With my thirst for striving at greater heights, i do take on short courses during my spare time online such as :
 
-*Linkedin - Learning Data Analytics: 1 Foundations*
 
-*Linkedin - IT Service Desk: Customer Service Fundamentals*
+Linkedin - IT Service Desk: Customer Service Fundamentals
 
-
-                                    
+Learning Data Analytics: 1 Foundations
 
                                                      Feel free to Catch me on the below links:
                                                 
