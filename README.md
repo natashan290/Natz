@@ -1,9 +1,9 @@
 
-Hi !
+*Hi !*
 
-I am Natasha, call me Natz.
+**I am Natasha, call me Natz.**
 
-Pleased to meet you!
+***Pleased to meet you!***
 
 I am a highly driven individual that can never get enough from learning new things daily. I see myself personally as a realist and a chatty person. I love a good conversation. I easily make friends with people i come in contact with, i sometimes admire myself for being so adventurous, i love the adrenaline that runs in me to learn new things. I have accomplished a National Diploma in Information Technology.  I desire to find a position that will enable me to further myself professionally and prove to be a valuable asset in any endeavor. 
 
