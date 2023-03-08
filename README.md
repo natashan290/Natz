@@ -67,5 +67,9 @@ Learning Data Analytics: 1 Foundations
                                                      Feel free to Catch me on the below links:
                                                 
 
-              [Gmail](Natashan290@gmail.com)          [Call](0715604296)       [Linkedin](https://www.linkedin.com/in/natasha-narainasamy0110)
+              [Gmail](Natashan290@gmail.com) 
+              
+              [Call](0715604296)   
+              
+              [Linkedin](https://www.linkedin.com/in/natasha-narainasamy0110)
 
